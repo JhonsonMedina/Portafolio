@@ -1,0 +1,57 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+  
+  .col-48{
+    display: inline-block;
+    width: 48%;
+    float: right;
+    
+  }
+  .fondo{
+    background-color: rgb(150, 165, 163);
+  }
+  .img5{
+      width: 400px;
+      height: 300px;
+  }
+.parrafo{
+    color: white;
+    margin-top: 10em;
+    margin-right: 2em;
+}
+
+.planta{
+    width:250px;
+    height:280px;
+}
+
+.iguana{
+    width: 250px;
+    height: 280px;
+}
+.cupponn{
+    width: 200px;
+    height: 280px;
+}
+
+.aviso{
+    background-color: rgb(127, 116, 116);
+}
+
+.white{
+    text-decoration: none;
+    color: white;
+    background-color: #6e6ef0;
+}
+
+.fondo2{
+    background-color: rgb(150, 165, 163);
+    margin-bottom: -4em;
+   margin-left: -4em;
+   margin-right: -4em; 
+}
